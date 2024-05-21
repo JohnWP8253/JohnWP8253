@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-j.w.pendergrass-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:j.w.pendergrass@gmail.com)](mailto:j.w.pendergrass@gmail.com)
 [![iCloud Badge](https://img.shields.io/badge/-john.pendergrass-006ee6?style=flat&logo=iCloud&logoColor=white&link=mailto:john.pendergrass@me.com)](mailto:john.pendergrass@me.com)
 
-Welcome to my GitHub profile! I'm a SR Manager of Program Performance & Strategy for ThriveDX (formerly HackerU), T-skilled in educational tech, data visualization, and curriculum development.
+Welcome to my GitHub profile! I'm a SR Product Owner of the Software Development program for ThriveDX (formerly HackerU), T-skilled in educational tech, data visualization, and curriculum development.
 
 ## My Skills
 I have experience in the following technologies. :keyboard:
