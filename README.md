@@ -10,11 +10,44 @@ Hi there! I'm a Senior Product Owner and Certified Scrum Master with a passion f
 Let’s build something amazing together! 💡👨‍💻
 
 ## My Skills
-I have experience in the following technologies. :keyboard:
+I have experience in the following technologies and tools. :keyboard:
 
+### Languages & Libraries
 ![HTML Badge](https://shields.io/badge/language-HTML-blue)
 ![CSS Badge](https://shields.io/badge/language-CSS-red)
 ![JS Badge](https://shields.io/badge/language-JavaScript-yellow)
+![Python Badge](https://shields.io/badge/language-Python-green)
+![React Badge](https://shields.io/badge/library-React-blue)
+![Node.js Badge](https://shields.io/badge/runtime-Node.js-lightgreen)
+![SQL Badge](https://shields.io/badge/language-SQL-orange)
+![MongoDB Badge](https://shields.io/badge/database-MongoDB-brightgreen)
+![GraphQL Badge](https://shields.io/badge/library-GraphQL-pink)
+![Bootstrap Badge](https://shields.io/badge/library-Bootstrap-purple)
+![Material UI Badge](https://shields.io/badge/library-Material--UI-lightblue)
+![Tailwind CSS Badge](https://shields.io/badge/library-Tailwind%20CSS-teal)
+
+### Tools & Frameworks
+![Jira Badge](https://shields.io/badge/tool-Jira-blue)
+![Asana Badge](https://shields.io/badge/tool-Asana-pink)
+![GitHub Badge](https://shields.io/badge/tool-GitHub-black)
+![Canvas LMS Badge](https://shields.io/badge/platform-Canvas%20LMS-orange)
+![Git Badge](https://shields.io/badge/version%20control-Git-lightblue)
+
+### Agile & Development Practices
+![Scrum Badge](https://shields.io/badge/framework-Scrum-blue)
+![Kanban Badge](https://shields.io/badge/framework-Kanban-yellow)
+![ATDD Badge](https://shields.io/badge/practice-ATDD-green)
+![TDD Badge](https://shields.io/badge/practice-TDD-red)
+![CI/CD Badge](https://shields.io/badge/process-CI/CD-purple)
+![Agile Games Badge](https://shields.io/badge/activity-Agile%20Games-orange)
+
+### Other Technical Skills
+![Generative AI Badge](https://shields.io/badge/AI-Generative%20AI-brightgreen)
+![Prompt Engineering Badge](https://shields.io/badge/AI-Prompt%20Engineering-blue)
+![Model Fine Tuning Badge](https://shields.io/badge/AI-Model%20Fine%20Tuning-purple)
+![RESTful APIs Badge](https://shields.io/badge/API-RESTful%20APIs-lightblue)
+![VS Code Badge](https://shields.io/badge/IDE-VS%20Code-brightgreen)
+![Qlik Cloud Badge](https://shields.io/badge/platform-Qlik%20Cloud-lightgreen)
 
 ## 🌟 My Soft Skills
 
