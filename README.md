@@ -25,7 +25,8 @@ I have experience in the following technologies and tools. :keyboard:
 ![Bootstrap Badge](https://shields.io/badge/library-Bootstrap-purple)
 ![Material UI Badge](https://shields.io/badge/library-Material--UI-lightblue)
 ![Tailwind CSS Badge](https://shields.io/badge/library-Tailwind%20CSS-teal)
-![AWS Badge](https://shields.io/badge/library-AWS-orange)
+![AWS Badge](https://shields.io/badge/devOps-AWS-orange)
+![MS Azure](https://shields.io/badge/devOps-MS Azure-blue) 
 
 ### Tools & Frameworks
 ![Jira Badge](https://shields.io/badge/tool-Jira-blue)
