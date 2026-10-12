@@ -45,7 +45,7 @@ A custom attendance KPI with cross-functional touchpoint mapping. It raised cour
 
 | Area | Skills |
 | --- | --- |
-| AI Models and APIs | Claude API, OpenAI API, AWS Bedrock (Converse API), Gemini Enterprise, Hugging Face, DeepL API |
+| AI Models and APIs | Claude API, OpenAI API, AWS Bedrock (Converse API), Gemini Enterprise, Hugging Face, DeepL API, Converse API |
 | AWS | Bedrock Knowledge Base, Bedrock Guardrails, Lambda, Step Functions, S3, CloudWatch, SageMaker |
 | AI Architecture | RAG pipelines, ETL/ELT, agentic workflows, multi-agent orchestration (CrewAI), human-in-the-loop review, vector databases, CI/CD for AI pipelines, AI governance |
 | Frameworks and Protocols | MCP, Google Cloud MCP servers, LangChain, LlamaIndex |
